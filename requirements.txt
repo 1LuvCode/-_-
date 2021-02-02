@@ -4,4 +4,4 @@ beautifulsoup4
 requests
 youtube-dl
 datetime
-webdriver
+selenium
