@@ -1,0 +1,11 @@
+asyncio
+discord.py
+beautifulsoup4
+requests
+youtube-dl
+re
+COVID_19
+Weather_WebCrawl
+lol_op_gg
+datetime
+webdriver
