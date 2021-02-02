@@ -302,6 +302,5 @@ async def on_ready():
 
 # 프로그램이 실행되면 제일 처음으로 실행되는 구간
 if __name__ == "__main__":
-    # TOKEN 값을
-    token = 'ODAxODAwMjA4MTc0Mjg0ODQw.YAl8og.wKxO7_XS2GISkaNf24TJHweFc5M'
-    bot.run(token)
+    access_token = os.environ['BOT_TOKEN']                     
+    bot.run(access_token)
